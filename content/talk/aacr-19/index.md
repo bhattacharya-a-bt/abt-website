@@ -5,7 +5,7 @@ date: "2019-09-20T14:00:00Z"
 date_end: "2019-09-20T14:30:00Z"
 event: AACR Disparities Conference 2019
 event_url: https://www.aacr.org/wp-content/uploads/2020/01/CHD19_Program.pdf
-featured: false
+featured: true
 location: San Francisco, CA, USA
 math: true
 slides:

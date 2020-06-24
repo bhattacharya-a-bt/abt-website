@@ -1,9 +1,12 @@
 ---
 all_day: false
 authors: []
-event: SER 2020 (December 16, 2020)
+date: "2020-12-16T15:45:00Z"
+date_end: "2020-12-16T17:15:00Z"
+event: SER 2020
 event_url: https://epiresearch.org/annual-meeting/2020-meeting/
 featured: true
+publishDate: "2020-06-16T10:35:00Z"
 location: Boston, MA, USA
 math: true
 links:
