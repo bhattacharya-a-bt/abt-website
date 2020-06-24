@@ -5,7 +5,7 @@ date: "2019-10-12T15:00:00Z"
 date_end: "2019-10-12T15:20:00Z"
 event: IGES 2019
 event_url: https://iges.memberclicks.net/annual-conference
-featured: true
+featured: false
 location: Houston, TX, USA
 math: true
 slides:
