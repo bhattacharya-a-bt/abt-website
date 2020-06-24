@@ -1,8 +1,9 @@
 ---
 all_day: false
 authors: []
-date: "2020-07-15T12:20:00Z"
-date_end: "2020-07-20T12:40:00Z"
+date = "2020-06-23T12:20:00Z"
+time_start: "2020-07-15T12:20:00Z"
+time_end: "2020-07-20T12:40:00Z"
 event: ISMB 2020
 event_url: https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi
 featured: true
