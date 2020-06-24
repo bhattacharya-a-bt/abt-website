@@ -1,10 +1,7 @@
 ---
 all_day: false
 authors: []
-date = "2020-06-23"
-time_start: "2020-07-15T12:20:00Z"
-time_end: "2020-07-20T12:40:00Z"
-event: ISMB 2020
+event: ISMB 2020 (July 15, 2020)
 event_url: https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi
 featured: true
 location: Montreal, CA, USA (rescheduled to online)
