@@ -16,7 +16,7 @@
 [[main]]
   name = "Papers"
   url = "#featured"
-  weight = 40
+  weight = 60
   
 [[main]]
   name = "CV"
