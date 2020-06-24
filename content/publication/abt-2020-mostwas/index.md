@@ -7,7 +7,7 @@ authors:
 date: "2020-04-18T00:00:00Z"
 doi: "10.1101/2020.04.17.047225"
 featured: true
-publication: '*BioRxiv*'
+publication: '*bioRxiv*'
 summary: R package for MOSTWAS included (see Code)
 publication_types:
 - "3"

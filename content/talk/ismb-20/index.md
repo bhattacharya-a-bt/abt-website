@@ -1,7 +1,7 @@
 ---
 all_day: false
 authors: []
-date = "2020-06-23T12:20:00Z"
+date = "2020-06-23"
 time_start: "2020-07-15T12:20:00Z"
 time_end: "2020-07-20T12:40:00Z"
 event: ISMB 2020
