@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>L. Smeester | Arjun Bhattacharya</title>
+    <link>/author/l.-smeester/</link>
+      <atom:link href="/author/l.-smeester/index.xml" rel="self" type="application/rss+xml" />
+    <description>L. Smeester</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>L. Smeester</title>
+      <link>/author/l.-smeester/</link>
+    </image>
+    
+    <item>
+      <title>Multi-omic kernel aggregation predicts intellectual and social impairment in children born extremely preterm</title>
+      <link>/publication/abt-2020-kernel/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/abt-2020-kernel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epigenome-wide DNA Methylation in Placentas From Preterm Infants for Associations With Maternal Socioeconomic Status</title>
+      <link>/publication/santos-2019-ses/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santos-2019-ses/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Arjun Bhattacharya</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 20 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>A framework for transcriptome-wide association studies in breast cancer in diverse study populations</title>
+      <link>/publication/abt-2020-twascbcs/</link>
+      <pubDate>Thu, 20 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/abt-2020-twascbcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epigenome-wide DNA Methylation in Placentas From Preterm Infants for Associations With Maternal Socioeconomic Status</title>
+      <link>/publication/santos-2019-ses/</link>
+      <pubDate>Wed, 14 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/santos-2019-ses/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Discrimination Exposure and DNA Methylation of Stress-Related Genes in Latina Mothers</title>
+      <link>/publication/santos-2018-mothers/</link>
+      <pubDate>Thu, 16 Aug 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/santos-2018-mothers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
