@@ -21,5 +21,5 @@ title: Multi-omic strategies for transcriptome-wide prediction and association s
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: https://www.youtube.com/watch?v=7IrVK22rAI0
+url_video: https://youtu.be/E7QUx3uzjhQ
 ---
