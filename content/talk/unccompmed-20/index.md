@@ -7,7 +7,7 @@ event: UNC CompMed Research in Progress
 event_url: https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi
 featured: true
 publishDate: "2020-06-16T10:35:00Z"
-location: Chapel Hill, NC, USA (rescheduled to online)
+location: Chapel Hill, NC, USA
 math: true
 links:
 - icon: twitter
