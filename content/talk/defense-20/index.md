@@ -15,7 +15,8 @@ links:
   name: Follow
   url: https://twitter.com/bhattac_a_bt
 slides:
-summary: Final defense for PhD in biostatistics (Password: 987123)
+summary: >
+  Final defense for PhD in biostatistics (Password: 987123)
 tags: []
 title: Statistical methods for inferring genetic regulation across heterogenous samples and multimodal data
 url_code: ""
