@@ -17,7 +17,8 @@ links:
 slides:
 summary: Presentation at UNC Computational Medicine Research in Progress Seminar Series
 tags: []
-title: DeCompress: cell-type deconvolution from targeted mRNA panels using compressed sensing
+title: >
+  DeCompress: cell-type deconvolution from targeted mRNA panels using compressed sensing
 url_code: ""
 url_pdf: ""
 url_slides: "https://drive.google.com/file/d/19ecyWIvrYV8YaZBwsNAxZUZjb2EgPSeM/view?usp=sharing"
