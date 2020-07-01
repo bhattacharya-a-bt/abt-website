@@ -12,9 +12,9 @@ authors:
 date: "2020-06-01T00:00:00Z"
 doi: "10.1101/2020.04.08.032490"
 featured: true
-publication: '*bioRxiv*'
+publication: '*Briefings in Bioinformatics*'
 publication_types:
-- "3"
+- "2"
 title: An approach for normalization and quality control for NanoString RNA expression data
 url_pdf: https://www.biorxiv.org/content/10.1101/2020.04.08.032490v2.full.pdf
 ---
