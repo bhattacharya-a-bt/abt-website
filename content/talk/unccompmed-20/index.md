@@ -15,7 +15,8 @@ links:
   name: Follow
   url: https://twitter.com/bhattac_a_bt
 slides:
-summary: Presentation at UNC Computational Medicine Research in Progress Seminar Series (Zoom: 992 2930 1711)
+summary: >
+  Presentation at UNC Computational Medicine Research in Progress Seminar Series (Zoom: 992 2930 1711)
 tags: []
 title: >
   DeCompress: cell-type deconvolution from targeted mRNA panels using compressed sensing
