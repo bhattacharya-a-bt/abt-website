@@ -4,7 +4,7 @@ authors: []
 date: "2020-07-10T10:00:00Z"
 date_end: "2020-07-10T11:00:00Z"
 event: UNC CompMed Research in Progress
-event_url: https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi
+event_url: https://unccn.zoom.us/j/99229301711
 featured: true
 publishDate: "2020-06-16T10:35:00Z"
 location: Chapel Hill, NC, USA
@@ -15,7 +15,7 @@ links:
   name: Follow
   url: https://twitter.com/bhattac_a_bt
 slides:
-summary: Presentation at UNC Computational Medicine Research in Progress Seminar Series
+summary: Presentation at UNC Computational Medicine Research in Progress Seminar Series (Zoom: 992 2930 1711)
 tags: []
 title: >
   DeCompress: cell-type deconvolution from targeted mRNA panels using compressed sensing
