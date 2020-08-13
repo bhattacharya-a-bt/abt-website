@@ -17,13 +17,34 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+[[experience]]
+  title = "Postdoctoral Fellow"
+  company = "Department of Pathology and Laboratory Medicine (UCLA)"
+  company_url = ""
+  location = "Los Angeles, CA"
+  date_start = "2017-08-20"
+  date_end = ""
+  description = """Statistical methods for genome- and transcriptome-wide association studies
+  (with Prof. Bogdan Pasaniuc and Prof. Michael Gandal)"""
+
 [[experience]]
   title = "Graduate Researcher"
   company = "Carolina Breast Cancer Study (UNC-Chapel Hill)"
   company_url = ""
   location = "Chapel Hill, NC"
   date_start = "2017-08-01"
-  date_end = ""
+  date_end = "2020-08-01"
+  description = """Disentangling sources of biological heterogeneity to study
+  racial disparities (with Prof. Mike Love and Prof. Melissa Troester)"""
+
+[[experience]]
+  title = "Graduate Researcher"
+  company = "Carolina Breast Cancer Study (UNC-Chapel Hill)"
+  company_url = ""
+  location = "Chapel Hill, NC"
+  date_start = "2017-08-01"
+  date_end = "2020-08-01"
   description = """Disentangling sources of biological heterogeneity to study
   racial disparities (with Prof. Mike Love and Prof. Melissa Troester)"""
 
