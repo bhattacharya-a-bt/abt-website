@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Department of Pathology and Laboratory Medicine (UCLA)"
   company_url = ""
   location = "Los Angeles, CA"
-  date_start = "2017-08-20"
+  date_start = "2020-08-20"
   date_end = ""
   description = """Statistical methods for genome- and transcriptome-wide association studies
   (with Prof. Bogdan Pasaniuc and Prof. Michael Gandal)"""
@@ -54,7 +54,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Chapel Hill, NC"
   date_start = "2016-08-01"
-  date_end = ""
+  date_end = "2020-08-01"
   description = """Analyzing multi-omic profiles from the placenta to study the etiology of developemental traits and disorders (with Prof. Hudson Santos and Prof. Rebecca Fry)"""
   
 [[experience]]
