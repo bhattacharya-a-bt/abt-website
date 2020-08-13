@@ -40,16 +40,6 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Graduate Researcher"
-  company = "Carolina Breast Cancer Study (UNC-Chapel Hill)"
-  company_url = ""
-  location = "Chapel Hill, NC"
-  date_start = "2017-08-01"
-  date_end = "2020-08-01"
-  description = """Disentangling sources of biological heterogeneity to study
-  racial disparities (with Prof. Mike Love and Prof. Melissa Troester)"""
-
-[[experience]]
-  title = "Graduate Researcher"
   company = "ELGAN Study (UNC-Chapel Hill)"
   company_url = ""
   location = "Chapel Hill, NC"
