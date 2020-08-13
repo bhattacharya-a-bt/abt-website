@@ -16,5 +16,5 @@ publication: '*Briefings in Bioinformatics*'
 publication_types:
 - "2"
 title: An approach for normalization and quality control for NanoString RNA expression data
-url_pdf: https://www.biorxiv.org/content/10.1101/2020.04.08.032490v2.full.pdf
+url_pdf: https://www.biorxiv.org/content/10.1101/2020.04.08.032490v3.full.pdf
 ---
