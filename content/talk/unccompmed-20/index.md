@@ -22,6 +22,6 @@ title: >
   DeCompress: cell-type deconvolution from targeted mRNA panels using compressed sensing
 url_code: ""
 url_pdf: ""
-url_slides: "https://docs.google.com/presentation/d/1_9gpGId4eShtRPoJMavk-67iu_MKPxI0mOU_RoD3IyU/edit?usp=sharing"
+url_slides: "https://drive.google.com/file/d/19ecyWIvrYV8YaZBwsNAxZUZjb2EgPSeM/view?usp=sharing"
 url_video: ""
 ---
