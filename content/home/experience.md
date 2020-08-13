@@ -23,7 +23,7 @@ date_format = "Jan 2006"
   company = "Department of Pathology and Laboratory Medicine (UCLA)"
   company_url = ""
   location = "Los Angeles, CA"
-  date_start = "2020-08-20"
+  date_start = "2020-09-01"
   date_end = ""
   description = """Statistical methods for genome- and transcriptome-wide association studies
   (with Prof. Bogdan Pasaniuc and Prof. Michael Gandal)"""
