@@ -16,5 +16,6 @@ publication: '*Briefings in Bioinformatics*'
 publication_types:
 - "2"
 title: An approach for normalization and quality control for NanoString RNA expression data
+url_code: https://github.com/bhattacharya-a-bt/NanoNormIter
 url_pdf: https://drive.google.com/file/d/1TMwGLS5EPuMsjhuBhMRIiTjBl1MZxN2b/view?usp=sharing
 ---
