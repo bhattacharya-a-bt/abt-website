@@ -6,7 +6,7 @@ authors:
 - M.A. Troester
 - M.I. Love
 date: "2020-08-17T00:00:00Z"
-doi: ""
+doi: "10.1101/2020.08.14.250902"
 featured: true
 publication: '*Preprint*'
 summary: R package for DeCompress included (see Code)
