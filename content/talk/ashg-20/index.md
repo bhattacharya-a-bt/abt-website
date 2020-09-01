@@ -1,8 +1,8 @@
 ---
 all_day: false
 authors: []
-date: "2020-10-27T12:20:00Z"
-date_end: "2020-10-27T12:40:00Z"
+date: "2020-10-29T12:11:00Z"
+date_end: "2020-10-29T12:11:15Z"
 event: ASHG 2020
 event_url: https://www.iscb.org/cms_addon/conferences/ismb2020/tracks/varicosi
 featured: true
