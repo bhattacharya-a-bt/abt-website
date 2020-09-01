@@ -16,5 +16,5 @@ publication: '*Submitted*'
 publication_types:
 - "3"
 title: Multi-omic kernel aggregation predicts intellectual and social impairment in children born extremely preterm
-url_pdf: https://drive.google.com/file/d/18fCX748tDsRXLxn-ilvS-marHRZC1F6l/view?usp=sharing
+url_pdf: https://www.biorxiv.org/content/10.1101/2020.07.19.211029v2.full.pdf
 ---
