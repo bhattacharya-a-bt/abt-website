@@ -20,6 +20,6 @@ tags: []
 title: Transcriptome-wide prediction and association studies enriched for mediating biomarkers
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: "https://drive.google.com/file/d/1b6_8S6LnDUgqlrgyye8WlPzkS2YWCaNv/view?usp=sharing"
 url_video: ""
 ---
