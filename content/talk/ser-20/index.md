@@ -15,7 +15,7 @@ links:
   name: Follow
   url: https://twitter.com/bhattac_a_bt
 slides:
-summary: Talk at Genetics in Epidemiology session
+summary: Talk at Genetics in Epidemiology session (SER 2020)
 tags: []
 title: Transcriptome-wide prediction and association studies enriched for mediating biomarkers
 url_code: ""
