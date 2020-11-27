@@ -11,7 +11,7 @@ authors:
 - R.C. Fry
 date: "2020-06-01T00:00:00Z"
 doi: ""
-featured: false
+featured: true
 publication: 'Molecular Autism'
 publication_types:
 - "2"
