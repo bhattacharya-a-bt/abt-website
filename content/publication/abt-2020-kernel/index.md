@@ -12,7 +12,7 @@ authors:
 date: "2020-11-26T00:00:00Z"
 doi: ""
 featured: true
-publication: 'Molecular Autism'
+publication: 'Accepted, *Molecular Autism*'
 publication_types:
 - "2"
 title: Multi-omic kernel aggregation predicts intellectual and social impairment in children born extremely preterm
