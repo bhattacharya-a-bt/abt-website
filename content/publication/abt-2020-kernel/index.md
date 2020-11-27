@@ -9,7 +9,7 @@ authors:
 - C.J. Marsit
 - T.M. O'Shea
 - R.C. Fry
-date: "2020-06-01T00:00:00Z"
+date: "2020-11-26T00:00:00Z"
 doi: ""
 featured: true
 publication: 'Molecular Autism'
