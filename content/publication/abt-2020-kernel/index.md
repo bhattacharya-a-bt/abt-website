@@ -12,7 +12,7 @@ authors:
 date: "2020-11-26T00:00:00Z"
 doi: ""
 featured: true
-publication: 'Accepted, *Molecular Autism*'
+publication: '*Molecular Autism*'
 publication_types:
 - "2"
 title: >
