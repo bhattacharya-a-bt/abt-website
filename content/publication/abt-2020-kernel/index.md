@@ -15,6 +15,7 @@ featured: true
 publication: 'Accepted, *Molecular Autism*'
 publication_types:
 - "2"
-title: Multi-omic kernel aggregation predicts intellectual and social impairment in children born extremely preterm
+title: >
+  Evidence for the placenta-brain axis: multi-omic kernel aggregation predicts intellectual and social impairment in children born extremely preterm
 url_pdf: https://molecularautism.biomedcentral.com/track/pdf/10.1186/s13229-020-00402-w.pdf
 ---
