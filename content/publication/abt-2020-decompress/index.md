@@ -5,10 +5,10 @@ authors:
 - A.H. Hamilton
 - M.A. Troester
 - M.I. Love
-date: "2020-08-17T00:00:00Z"
+date: "2021-01-04T00:00:00Z"
 doi: "10.1101/2020.08.14.250902"
 featured: true
-publication: 'Accepted, Nucleic Acids Research'
+publication: 'Accepted, *Nucleic Acids Research*'
 summary: R package for DeCompress included (see Code)
 publication_types:
 - "2"
