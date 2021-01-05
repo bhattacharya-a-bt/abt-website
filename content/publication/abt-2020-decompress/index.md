@@ -8,10 +8,10 @@ authors:
 date: "2020-08-17T00:00:00Z"
 doi: "10.1101/2020.08.14.250902"
 featured: true
-publication: '*Preprint*'
+publication: 'Accepted, Nucleic Acids Research'
 summary: R package for DeCompress included (see Code)
 publication_types:
-- "3"
+- "2"
 title: >
   DeCompress: tissue compartment deconvolution of targeted mRNA expression panels using compressed sensing
 url_code: https://github.com/bhattacharya-a-bt/DeCompress/
