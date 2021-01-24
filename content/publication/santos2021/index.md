@@ -17,6 +17,6 @@ publication: '*Journal of Affective Disorders*'
 publication_types:
 - "2"
 title: >
-  DeCompress: Biopsychosocial correlates of psychological distress in Latina mothers
+  Biopsychosocial correlates of psychological distress in Latina mothers
 url_pdf: "https://www.sciencedirect.com/science/article/abs/pii/S0165032720332833"
 ---
