@@ -16,9 +16,9 @@ interests:
 - Genetic epidemiology
 - Functional genomics
 organizations:
-- name: UNC-Chapel Hill
+- name: UCLA
   url: ""
-role: Postdoctoral Fellow, Statistical Genetics
+role: Postdoctoral Fellow
 social:
 - icon: envelope
   icon_pack: fas
