@@ -18,7 +18,7 @@ interests:
 organizations:
 - name: UNC-Chapel Hill
   url: ""
-role: PhD Candidate, Biostatistics
+role: Postdoctoral Fellow, Statistical Genetics
 social:
 - icon: envelope
   icon_pack: fas
