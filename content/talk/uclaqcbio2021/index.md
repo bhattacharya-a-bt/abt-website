@@ -21,5 +21,5 @@ title: Distal mediator-enriched placental transcriptome-wide association studies
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: https://www.youtube.com/channel/UCokAYrjf_TaziPtmn6l4-5A
+url_video: https://www.youtube.com/watch?v=n2UVokaeu_k
 ---
