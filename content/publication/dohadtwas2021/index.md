@@ -24,5 +24,6 @@ publication_types:
 - "3"
 title: >
    Distal mediator-enriched, placental transcriptome-wide analyses illustrate the Developmental Origins of Health and Disease
+url_code: https://elgan-twas.shinyapps.io/dohad/
 url_pdf: https://www.medrxiv.org/content/10.1101/2021.04.12.21255170v1.full.pdf
 ---
