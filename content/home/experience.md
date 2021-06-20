@@ -19,6 +19,15 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Fellow"
+  company = "UCLA Institute for Quantitative and Computational Biosciences"
+  company_url = ""
+  location = "Los Angeles, CA"
+  date_start = "2021-07-01"
+  date_end = ""
+  description = """Teaching and consulting with experimental biologists in quantitative methods and approaches"""
+
+[[experience]]
   title = "Postdoctoral Fellow"
   company = "Department of Pathology and Laboratory Medicine (UCLA)"
   company_url = ""
