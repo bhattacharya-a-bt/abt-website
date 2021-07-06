@@ -6,6 +6,8 @@ authors:
 - V. Avula
 - R. Harris
 - W. Liu
+- C. Pan
+- A. Lusis
 - R. Joseph
 - L. Smeester
 - H. Hartwell
@@ -15,7 +17,7 @@ authors:
 - T. O'Shea
 - R. Fry
 - H. Santos
-date: "2021-04-14T00:00:00Z"
+date: "2021-07-01T00:00:00Z"
 doi: "10.1101/2021.04.12.21255170"
 featured: true
 publication: '*medRxiv*'
@@ -23,7 +25,7 @@ summary: Mediator-enriched placental TWAS of DOHaD
 publication_types:
 - "3"
 title: >
-   Distal mediator-enriched, placental transcriptome-wide analyses illustrate the Developmental Origins of Health and Disease
+   Genetic control of fetal placental genomics contributes to development of health and disease
 url_code: https://elgan-twas.shinyapps.io/dohad/
-url_pdf: https://www.medrxiv.org/content/10.1101/2021.04.12.21255170v1.full.pdf
+url_pdf: https://www.medrxiv.org/content/10.1101/2021.04.12.21255170v2.full.pdf
 ---
