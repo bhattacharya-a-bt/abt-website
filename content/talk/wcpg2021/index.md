@@ -1,8 +1,8 @@
 ---
 all_day: false
 authors: []
-date: "2021-10-12T02:15:00Z"
-date_end: "2021-10-12T03:45:00Z"
+date: "2021-10-12T14:15:00Z"
+date_end: "2021-10-12T15:45:00Z"
 event: World Congress of Psychiatric Genetics
 event_url: https://ispg.net/wcpg-2021/
 featured: true
