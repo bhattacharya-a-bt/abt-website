@@ -21,5 +21,5 @@ title: Genetic control of placental genomics contributes to the development of c
 url_code: ""
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://youtu.be/rPFeFnHYIfE"
 ---
