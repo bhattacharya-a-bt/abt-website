@@ -8,11 +8,11 @@ authors:
 - M. Troester
 - M. Love
 - admin
-date: "2021-03-12T00:00:00Z"
+date: "2021-10-25T00:00:00Z"
 doi: "10.1101/2021.03.19.21253983"
 featured: true
-publication: '*medRxiv*'
-summary: TWAS of breast cancer risk-of-recurrence
+publication: '*Cancer Research*'
+summary: GReX analysis of breast cancer risk-of-recurrence
 publication_types:
 - "3"
 title: >
