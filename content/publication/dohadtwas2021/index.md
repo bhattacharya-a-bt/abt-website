@@ -20,10 +20,10 @@ authors:
 date: "2021-07-01T00:00:00Z"
 doi: "10.1101/2021.04.12.21255170"
 featured: true
-publication: '*medRxiv*'
+publication: 'Provisional accept, *Nature Communications*'
 summary: Mediator-enriched placental TWAS of DOHaD
 publication_types:
-- "3"
+- "2"
 title: >
    Genetic control of fetal placental genomics contributes to development of health and disease
 url_code: https://elgan-twas.shinyapps.io/dohad/
