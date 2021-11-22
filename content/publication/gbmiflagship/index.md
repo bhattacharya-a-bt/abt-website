@@ -17,7 +17,7 @@ date: "2021-11-21T00:00:00Z"
 doi: "10.1101/2021.11.19.21266436"
 featured: true
 publication: '*medRxiv*'
-summary: Flagship paper from the GBMI
+summary: Lead TWAS analyst for flagship paper from the GBMI
 publication_types:
 - "3"
 title: >
