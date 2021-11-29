@@ -7,7 +7,6 @@ authors:
 - W. Zhou
 - M. Kanai
 - Global Biobank Meta-analysis Initiative
-- M. Daly
 - B. Pasaniuc
 - E. Gamazon
 - N. Cox
