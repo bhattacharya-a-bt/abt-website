@@ -20,7 +20,7 @@ authors:
 date: "2021-11-12T00:00:00Z"
 doi: "10.1101/2021.04.12.21255170"
 featured: true
-publication: 'Provisional accept, *Nature Communications*'
+publication: 'Forthcoming, *Nature Communications*'
 summary: Mediator-enriched placental TWAS of DOHaD
 publication_types:
 - "2"
