@@ -25,7 +25,7 @@ summary: Mediator-enriched placental TWAS of DOHaD
 publication_types:
 - "2"
 title: >
-   Genetic control of fetal placental genomics contributes to development of health and disease
+   Placental genomics mediates genetic associations with complex health traits and disease
 url_code: https://elgan-twas.shinyapps.io/dohad/
 url_pdf: https://www.medrxiv.org/content/10.1101/2021.04.12.21255170v2.full.pdf
 ---
