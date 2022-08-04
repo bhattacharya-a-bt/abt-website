@@ -13,10 +13,10 @@ authors:
 - C. Willer
 - M. Daly
 - B. Neale
-date: "2021-11-21T00:00:00Z"
+date: "2022-08-01T00:00:00Z"
 doi: "10.1101/2021.11.19.21266436"
 featured: true
-publication: '*medRxiv*'
+publication: '*Cell Genomics*'
 summary: Lead TWAS analyst for flagship paper from the GBMI
 publication_types:
 - "3"
