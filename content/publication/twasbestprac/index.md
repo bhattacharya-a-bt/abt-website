@@ -10,10 +10,10 @@ authors:
 - B. Pasaniuc
 - E. Gamazon
 - N. Cox
-date: "2021-11-26T00:00:00Z"
+date: "2022-08-03T00:00:00Z"
 doi: "10.1101/2021.11.24.21266825"
 featured: true
-publication: '*medRxiv*'
+publication: '*Cell Genomics*'
 summary: Best practices for TWAS using biobanks 
 publication_types:
 - "3"
