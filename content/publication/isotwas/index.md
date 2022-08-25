@@ -19,5 +19,5 @@ publication_types:
 title: >
    Isoform-level transcriptome-wide association uncovers extensive novel genetic risk mechanisms for neuropsychiatric disorders in the human brain
 url_code:
-url_pdf: https://www.nature.com/articles/s41467-022-28365-x.pdf
+url_pdf: https://www.medrxiv.org/content/10.1101/2022.08.23.22279134v1.full.pdf
 ---
